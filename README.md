@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/8a9e971f-7259-489f-89f6-beeb9d18302f)
+
+
+
+
 This data science project series walks through step by step process of how to build a House Price Prediction Project. 
 We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. 
 Second step would be to write a python flask server that uses the saved model to serve http requests. 
